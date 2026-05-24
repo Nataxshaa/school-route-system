@@ -77,7 +77,7 @@ school-route-system/
 ### 1. Clonar o repositório
 
 ```bash
-git clone git@github.com:Nataxshaa/school-route-system.git
+git clone git@github.com:SEU_USUARIO/school-route-system.git
 ```
 
 ### 2. Entrar na pasta do projeto
